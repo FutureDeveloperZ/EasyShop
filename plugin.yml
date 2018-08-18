@@ -1,7 +1,7 @@
 name: EasyShop
 main: EasyShop\Main
 version: 0.0.1
-api: [3.0.0, 3.1.0]
+api: [3.0.0, 3.1.0, 3.1.1, 3.1.4, 4.0.0]
 author: Wolfkid
 description: By Stuff With A GUI
 commands:
